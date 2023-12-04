@@ -46,9 +46,9 @@ This repository contains a Jupyter Notebook (Sephora_Sentiment_Analysis.ipynb) t
 
 The sentiment analysis models, including Logistic Regression, Support Vector Machine (SVM), and Random Forest, achieved the following accuracy rates:
 
-Logistic Regression: 80.39%
-Support Vector Machine (SVM): 80.35%
-Random Forest: 73.18%
+* Logistic Regression: 80.39%
+* Support Vector Machine (SVM): 80.35%
+* Random Forest: 73.18%
 
 The detailed analysis findings and visualizations can be explored in the notebook.
 
