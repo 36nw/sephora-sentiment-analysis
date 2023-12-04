@@ -64,7 +64,7 @@ The code in this repository is licensed under the MIT License.
 
 ## Authors
 
-- Linkedin [@mugeyalcin](www.linkedin.com/in/mugeylcn)
+- Linkedin [@mugeyalcin](https://www.linkedin.com/in/mugeylcn/)
   
 ## Acknowledgements
 
