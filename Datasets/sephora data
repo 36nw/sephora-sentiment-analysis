@@ -1,4 +1,7 @@
-The selected dataset is the “Sephora Products and Skincare Reviews (2023)” obtained from the Kaggle website. 
+Dataset link:
+https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
+
+The dataset is the “Sephora Products and Skincare Reviews (2023)” obtained from the Kaggle website. 
 This dataset consists of product reviews from Sephora online store and over 1 million reviews on over 2,000 products from the Skincare category, including user appearances, 
 and review ratings by other users (Inky 2023), providing a rich source of textual data for sentiment analysis.
 
