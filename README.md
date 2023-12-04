@@ -13,7 +13,7 @@ Explore sentiment in Sephora reviews using NLP and machine learning on Kaggle's 
 - [Usage](#usage)
 - [License](#license)
 - [Authors](#authors)
-- [Licensing, Authors, Acknowledgements](#licensing-authors-acknowledgements)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
