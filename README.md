@@ -70,7 +70,8 @@ The code in this repository is licensed under the MIT License.
 
 The dataset used in this project, "Sephora Products and Skincare Reviews (2023)," is obtained from Kaggle. Special thanks to Kaggle and Sephora for providing the dataset, enabling research and development in sentiment analysis.
 
-Please note that the licensing terms for the dataset itself are subject to Kaggle's and Sephora's policies. Ensure compliance with their respective terms and conditions when using the dataset.
+>[!NOTE]
+The licensing terms for the dataset itself are subject to Kaggle's and Sephora's policies. Ensure compliance with their respective terms and conditions when using the dataset.
 
 
 
