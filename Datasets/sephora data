@@ -1,8 +1,12 @@
-The selected dataset is the “Sephora Products and Skincare Reviews (2023)” obtained from the Kaggle website. This dataset consists of product reviews from Sephora online store and over 1 million reviews on over 2,000 products from the Skincare category, including user appearances, and review ratings by other users (Inky 2023), providing a rich source of textual data for sentiment analysis.
+The selected dataset is the “Sephora Products and Skincare Reviews (2023)” obtained from the Kaggle website. 
+This dataset consists of product reviews from Sephora online store and over 1 million reviews on over 2,000 products from the Skincare category, including user appearances, 
+and review ratings by other users (Inky 2023), providing a rich source of textual data for sentiment analysis.
 
-For sentiment analysis, the relevant features/columns for analysis include the “review_text”, “rating”, “reviews”, and “product_name”. These features can provide contextual information and contribute to the sentiment analysis process and text visualization.
+For sentiment analysis, the relevant features/columns for analysis include the “review_text”, “rating”, “reviews”, and “product_name”. 
+These features can provide contextual information and contribute to the sentiment analysis process and text visualization.
 
-The dataset consists of product information and user reviews in CSV format. The product information contains details about over 8,000 beauty products from the Sephora online store. The user review CSV files contain over 1 million reviews specifically for skincare products. These reviews are spread across the six CSV files and provide insights into user experiences with the products.
+The dataset consists of product information and user reviews in CSV format. The product information contains details about over 8,000 beauty products from the Sephora online store. 
+The user review CSV files contain over 1 million reviews specifically for skincare products. These reviews are spread across the six CSV files and provide insights into user experiences with the products.
 
 The product information consists of the following 12 features:
 
