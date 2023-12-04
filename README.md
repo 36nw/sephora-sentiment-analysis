@@ -24,11 +24,11 @@ Explore customer sentiments in the beauty world with our Sephora Sentiment Analy
 This project requires the following Python packages:
 
 - pandas
-* numpy
-+ scikit-learn
+- numpy
+- scikit-learn
 - matplotlib
-* seaborn
-+ nltk
+- seaborn
+- nltk
 
 Install the required packages using the following command:
 
