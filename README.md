@@ -11,6 +11,8 @@ Explore sentiment in Sephora reviews using NLP and machine learning on Kaggle's 
 - [File Descriptions](#file-descriptions)
 - [Results](#results)
 - [Usage](#usage)
+- [License](#license)
+- [Authors](#authors)
 - [Licensing, Authors, Acknowledgements](#licensing-authors-acknowledgements)
 
 ---
@@ -56,9 +58,15 @@ The detailed analysis findings and visualizations can be explored in the noteboo
 
 To run the Jupyter Notebook, ensure that you have the required packages installed (see Installation). Open the notebook in a Jupyter environment and execute each cell sequentially.
 
-## Licensing, Authors, Acknowledgements
+## License
 
 The code in this repository is licensed under the MIT License.
+
+## Authors
+
+- Linkedin [@mugeyalcin](www.linkedin.com/in/mugeylcn)
+  
+## Acknowledgements
 
 The dataset used in this project, "Sephora Products and Skincare Reviews (2023)," is obtained from Kaggle. Special thanks to Kaggle and Sephora for providing the dataset, enabling research and development in sentiment analysis.
 
